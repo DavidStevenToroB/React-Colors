@@ -1,0 +1,6 @@
+.mood::before{
+   content: 'cambiar a modo oscuro';
+}
+.mood:active{
+   content: 'cambiar a modo claro';
+}
